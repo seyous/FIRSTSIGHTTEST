@@ -4,13 +4,16 @@
 
 *  Clone repository.
 
-       *  git clone 
+       *  git clone https://github.com/seyous/FIRSTSIGHTTEST/tree/master
 
 
     ### IDE:
 
    *  This project was written using cypress, Open the project with code editor such as visual tudio code.
- 
+    
+     ###  Project folder
+
+         *  cypress\integration\TestCases
 
    ###  Run Test
 
